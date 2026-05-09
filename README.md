@@ -16,7 +16,7 @@ Hà Nội, Việt Nam | 📧 uyen.nongnhu@gmail.com
 
 ## Dự án
 
-> Đang cập nhật — các dự án sẽ được thêm vào sớm!
+> Đang cập nhật - các dự án sẽ được thêm vào sớm!
 
 ---
 
