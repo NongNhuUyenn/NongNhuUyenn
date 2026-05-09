@@ -1,6 +1,6 @@
 # Xin chào, mình là Nông Như Uyên!
 
-Sinh viên năm 3 — Hệ thống Thông tin Quản lý @ Đại học Bách Khoa Hà Nội  
+Sinh viên năm 3 - Hệ thống Thông tin Quản lý @ Đại học Bách Khoa Hà Nội  
 Định hướng: **Data Analysis / AI / Machine Learning**  
 Hà Nội, Việt Nam | 📧 uyen.nongnhu@gmail.com
 
