@@ -17,7 +17,7 @@ Hà Nội, Việt Nam | 📧 uyen.nongnhu@gmail.com
 ## 📂 Dự án nổi bật
 
 ### 🤖 Multi-Agent Research Assistant
-Hệ thống AI đa tác tử hỗ trợ quy trình nghiên cứu khoa học — tự động tìm tài liệu, tổng hợp báo cáo, phản biện nội dung và chấm điểm chất lượng. Gồm 7 agent: Search, Writer, Critic, Evaluator, Memory, Experiment, Paper Checklist.  
+Hệ thống AI đa tác tử hỗ trợ quy trình nghiên cứu khoa học - tự động tìm tài liệu, tổng hợp báo cáo, phản biện nội dung và chấm điểm chất lượng. Gồm 7 agent: Search, Writer, Critic, Evaluator, Memory, Experiment, Paper Checklist.  
 **Tech:** Python · LangChain · Groq API · Tavily · ArXiv API · ChromaDB · Streamlit  
 🔗 [Xem repo](https://github.com/NongNhuUyenn/multi-agent-research-assistant)
 
@@ -27,7 +27,7 @@ Hệ hỗ trợ quyết định cho bài toán bán lẻ/giao hàng nhanh: dự 
 🔗 [Xem repo](https://github.com/NongNhuUyenn/DSS-Blinkit-Project)
 
 ### 🔐 Website Security Scanner
-Công cụ kiểm thử bảo mật ứng dụng web tự động — quét và phân loại lỗ hổng theo chuẩn OWASP Top 10 2025, CWE, WSTG. Demo thực nghiệm trên DVWA phát hiện 187 lượt ghi nhận lỗ hổng thuộc 24 loại.  
+Công cụ kiểm thử bảo mật ứng dụng web tự động - quét và phân loại lỗ hổng theo chuẩn OWASP Top 10 2025, CWE, WSTG. Demo thực nghiệm trên DVWA phát hiện 187 lượt ghi nhận lỗ hổng thuộc 24 loại.  
 **Tech:** Python · Flask · OWASP ZAP · Docker  
 🔗 [Xem repo](https://github.com/NongNhuUyenn/website-scanner) · [Xem demo kết quả](https://nongnhuuyenn.github.io/website-scanner/)
 
