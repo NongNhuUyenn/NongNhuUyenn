@@ -21,7 +21,7 @@ Hệ thống AI đa tác tử hỗ trợ quy trình nghiên cứu khoa học —
 **Tech:** Python · LangChain · Groq API · Tavily · ArXiv API · ChromaDB · Streamlit  
 🔗 [Xem repo](https://github.com/NongNhuUyenn/multi-agent-research-assistant)
 
-### 📊 DSS Blinkit Project — Decision Support System cho bán lẻ
+### 📊 DSS Blinkit Project - Decision Support System
 Hệ hỗ trợ quyết định cho bài toán bán lẻ/giao hàng nhanh: dự báo doanh thu, số đơn hàng theo ngày và dự đoán rủi ro giao hàng trễ (risk scoring) cho từng đơn hàng, hỗ trợ lập kế hoạch vận hành.  
 **Tech:** Python · Pandas · Scikit-learn · Đánh giá bằng MAE, RMSE, Accuracy, Precision, Recall, F1-score  
 🔗 [Xem repo](https://github.com/NongNhuUyenn/DSS-Blinkit-Project)
